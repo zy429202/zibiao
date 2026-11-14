@@ -5,8 +5,11 @@ fontra自定义字表（Glyph Sets）测试能用。
   
 说明：<br>
 GuJiYinShua-2021.txt -- 《古籍印刷通用字规范字形表》GB/Z 40637-2021，14250字；  
-TongYongGuiFan-2013.txt -- 《通用规范汉字表》-2013，8105字；  
+TongYongGuiFan-2013.txt -- 《通用规范汉字表》-2013，8105字； glyphs中的中国大陆字表同。
 XinXiJiaoHuan-1980.txt -- 《信息交换用汉字编码字符集 基本集》GB2312-1980，6763字；
+glyphs-fanjian.txt -- glyphs繁简常用字，9173字；
+glyphs-taiwan.txt -- 《常用国字标准字体表》1979+《次常用国字标准字体表》1982，11148字；
+glyphs-xianggang.txt -- 《常用字字形表》1984，4828字；
 
 ————————————————  
 外字  
